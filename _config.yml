@@ -1,2 +1,4 @@
 markdown: kramdown
 remote_theme: hydecorp/hydejack
+
+theme: jekyll-theme-cayman
