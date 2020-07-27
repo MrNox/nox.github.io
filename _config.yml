@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Josué Rojas aka Nox"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi There, at 15 years old I started in the reverse engineering world, 13 years have passed since then..."
+  bio              : "At 15 years old I started in the reverse engineering world, 13 years have passed since then..."
   location         : "nowhere"
   email            : "nox@reversingcode.re"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nox@reversingcode.com"
+      #url: "mailto:nox@reversingcode.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
