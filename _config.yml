@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Josué 'Nox' Rojas"
+  name             : "Josué Rojas aka Nox"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hi There, at 15 years old I started in the reverse engineering world, 13 years have passed since then..."
   location         : "nowhere"
-  email            :
+  email            : "nox@reversingcode.re"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/MrNox_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
